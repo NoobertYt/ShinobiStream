@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://noobertyt.github.io/ShinobiStream/sitemap.xml
